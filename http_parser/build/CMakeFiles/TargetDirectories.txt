@@ -1,0 +1,4 @@
+/workspaces/parser/http_parser/build/CMakeFiles/http_parser_lib.dir
+/workspaces/parser/http_parser/build/CMakeFiles/run_tests.dir
+/workspaces/parser/http_parser/build/CMakeFiles/edit_cache.dir
+/workspaces/parser/http_parser/build/CMakeFiles/rebuild_cache.dir
